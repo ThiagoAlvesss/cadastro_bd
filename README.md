@@ -1,4 +1,4 @@
 # Cadastro de cursos e alunos - CRUD
 Integrantes: <br></br>
 Thiago Alves de Medeiros Souza <br></br>
-Catarine Louise
+Catarina Louise
